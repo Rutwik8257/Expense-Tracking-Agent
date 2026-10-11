@@ -1,0 +1,33 @@
+# Core
+langchain==0.3.25
+langchain-anthropic==0.3.15
+langchain-openai==0.3.16
+langgraph==0.2.70
+langgraph-checkpoint==2.0.26
+anthropic==0.52.0
+openai==1.82.1
+
+# Data
+pandas==2.2.3
+numpy==2.2.5
+
+# Vector store
+chromadb==1.0.9
+
+# Database
+# sqlite3 is built-in to Python
+
+# Validation
+pydantic==2.11.5
+
+# Frontend
+streamlit==1.45.1
+plotly==6.1.1
+
+# Utilities
+python-dotenv==1.1.0
+scikit-learn==1.6.1
+
+# Testing
+pytest==8.3.5
+pytest-mock==3.14.0

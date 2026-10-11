@@ -1,0 +1,101 @@
+id,date,description,amount,category,is_true_anomaly,true_category
+74,2024-02-19,Employer Payroll,2547.33,,False,Income
+19,2024-01-09,Uber,-17.27,,False,Transportation
+119,2024-01-22,Dr. Smith Clinic,-950.0,,True,Healthcare
+79,2024-02-05,Walmart Grocery,-61.43,,False,Groceries
+77,2024-03-31,Subway,-8.98,,False,Food & Dining
+32,2024-03-15,Chipotle,-189.5,,True,Food & Dining
+65,2024-03-27,Amazon,-27.88,,False,Shopping
+142,2024-03-11,McDonald's,-8.18,,False,Food & Dining
+69,2024-04-03,Walgreens,-13.8,,False,Healthcare
+83,2024-03-08,Aldi,-68.79,,False,Groceries
+111,2024-03-26,Apartment Rent,-1214.87,,False,Rent/Housing
+13,2024-06-09,McDonald's,-11.86,,False,Food & Dining
+37,2024-01-14,Escape Room,-32.33,,False,Entertainment
+10,2024-05-17,Zelle Payment,355.78,,False,Income
+20,2024-03-16,Aldi,-42.01,,False,Groceries
+57,2024-05-26,Metro Transit,-3.26,,False,Transportation
+105,2024-05-07,Subway,-9.28,,False,Food & Dining
+70,2024-04-20,Dental Care Plus,-210.51,,False,Healthcare
+56,2024-01-02,Domino's Pizza,-31.76,,False,Food & Dining
+133,2024-02-26,Costco,-127.93,,False,Groceries
+30,2024-04-09,Target,-64.11,,False,Shopping
+128,2024-04-26,Best Buy,-281.63,,False,Shopping
+27,2024-06-28,Freelance Payment,738.8,,False,Income
+129,2024-04-04,AMC Theaters,-21.03,,False,Entertainment
+132,2024-03-04,Target,-55.07,,False,Shopping
+146,2024-05-05,Uber,-25.78,,False,Transportation
+109,2024-06-16,Ticketmaster,-107.28,,False,Entertainment
+144,2024-04-27,Domino's Pizza,-31.72,,False,Food & Dining
+46,2024-02-28,McDonald's,-8.32,,False,Food & Dining
+31,2024-01-18,Parking Meter,-4.92,,False,Transportation
+23,2024-02-20,Aldi,-50.38,,False,Groceries
+16,2024-05-10,Comcast Internet,-71.14,,False,Bills & Utilities
+66,2024-01-30,Zelle Payment,472.66,,False,Income
+12,2024-06-28,Olive Garden,-45.11,,False,Food & Dining
+43,2024-03-27,Domino's Pizza,-20.64,,False,Food & Dining
+147,2024-02-03,Comcast Internet,-75.31,,False,Bills & Utilities
+52,2024-04-04,Walgreens,-35.46,,False,Healthcare
+28,2024-04-21,Venmo Transfer,39.51,,False,Income
+5,2024-04-27,Spotify,-10.65,,False,Bills & Utilities
+33,2024-01-13,Spotify,-10.31,,False,Bills & Utilities
+143,2024-05-18,Amazon,-89.99,,True,Shopping
+86,2024-02-15,Apartment Rent,-1718.76,,False,Rent/Housing
+87,2024-03-01,Netflix,-15.2,,False,Bills & Utilities
+17,2024-01-14,Nike Store,-116.04,,False,Shopping
+11,2024-01-27,Olive Garden,-31.7,,False,Food & Dining
+82,2024-04-10,Netflix,-15.99,,True,Bills & Utilities
+134,2024-05-03,Target,-66.58,,False,Shopping
+138,2024-05-25,National Gas Co,-45.99,,False,Bills & Utilities
+76,2024-02-29,Chipotle,-12.56,,False,Food & Dining
+110,2024-03-31,Walgreens,-40.68,,False,Healthcare
+97,2024-05-18,BP Gas,-66.93,,False,Transportation
+106,2024-04-29,Walmart Grocery,-97.67,,False,Groceries
+67,2024-06-10,Uber,-13.63,,False,Transportation
+1,2024-01-11,Comcast Internet,-81.58,,False,Bills & Utilities
+123,2024-02-29,Domino's Pizza,-34.75,,False,Food & Dining
+68,2024-04-02,Uber,-14.57,,False,Transportation
+29,2024-05-01,Metro Transit,-3.95,,False,Transportation
+41,2024-05-20,Parking Meter,-4.85,,False,Transportation
+45,2024-03-28,Starbucks,-7.79,,False,Food & Dining
+61,2024-05-21,Escape Room,-25.12,,False,Entertainment
+124,2024-04-18,Zara,-74.48,,False,Shopping
+25,2024-02-26,Metro Transit,-3.46,,False,Transportation
+26,2024-02-09,Apartment Rent,-1784.3,,False,Rent/Housing
+24,2024-02-23,CVS Pharmacy,-55.45,,False,Healthcare
+95,2024-05-23,Dental Care Plus,-241.13,,False,Healthcare
+40,2024-02-11,Trader Joe's,-52.43,,False,Groceries
+96,2024-03-21,Netflix,-16.7,,False,Bills & Utilities
+118,2024-01-15,Target,-56.7,,False,Shopping
+48,2024-04-18,H&M,-49.67,,False,Shopping
+98,2024-05-12,Shell Gas Station,-53.14,,False,Transportation
+114,2024-05-18,Amazon,-26.58,,False,Shopping
+34,2024-01-16,H&M,-65.47,,False,Shopping
+139,2024-03-02,Shell Gas Station,-47.18,,False,Transportation
+102,2024-02-18,Amazon,-52.33,,False,Shopping
+63,2024-03-08,Unknown Electronics Co,-620.0,,True,Other
+85,2024-01-16,Target,-107.82,,False,Shopping
+149,2024-04-27,Freelance Payment,833.65,,False,Income
+54,2024-03-21,Zelle Payment,377.85,,False,Income
+6,2024-04-06,McDonald's,-14.81,,False,Food & Dining
+94,2024-06-13,Panera Bread,-18.96,,False,Food & Dining
+112,2024-01-30,Whole Foods,-96.02,,False,Groceries
+50,2024-02-09,Whole Foods,-109.58,,False,Groceries
+36,2024-01-24,Trader Joe's,-60.57,,False,Groceries
+81,2024-04-19,Kroger,-92.29,,False,Groceries
+78,2024-02-24,Panera Bread,-13.41,,False,Food & Dining
+35,2024-01-25,BP Gas,-43.71,,False,Transportation
+115,2024-06-12,Domino's Pizza,-34.82,,False,Food & Dining
+8,2024-05-15,Costco,-194.42,,False,Groceries
+44,2024-01-28,Steam Games,-23.22,,False,Entertainment
+71,2024-06-15,BP Gas,-67.85,,False,Transportation
+99,2024-01-01,Walmart Grocery,-62.65,,False,Groceries
+121,2024-02-02,Metro Transit,-4.53,,False,Transportation
+84,2024-05-18,Amazon,-89.99,,False,Shopping
+135,2024-05-22,Best Buy,-155.75,,False,Shopping
+136,2024-04-26,McDonald's,-10.66,,False,Food & Dining
+90,2024-05-10,Freelance Payment,1026.72,,False,Income
+9,2024-01-15,Olive Garden,-45.54,,False,Food & Dining
+14,2024-05-24,AT&T Wireless,-78.75,,False,Bills & Utilities
+120,2024-02-09,Zara,-97.47,,False,Shopping
+126,2024-05-15,Netflix,-16.43,,False,Bills & Utilities

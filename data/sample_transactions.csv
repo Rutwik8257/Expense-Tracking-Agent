@@ -1,0 +1,151 @@
+id,date,description,amount,category,is_true_anomaly
+1,2024-01-11,Comcast Internet,-81.58,,False
+2,2024-03-21,Con Edison Electric,-92.26,,False
+3,2024-03-08,Steam Games,-44.37,,False
+4,2024-02-24,Shell Gas Station,-60.07,,False
+5,2024-04-27,Spotify,-10.65,,False
+6,2024-04-06,McDonald's,-14.81,,False
+7,2024-03-11,CVS Pharmacy,-43.54,,False
+8,2024-05-15,Costco,-194.42,,False
+9,2024-01-15,Olive Garden,-45.54,,False
+10,2024-05-17,Zelle Payment,355.78,,False
+11,2024-01-27,Olive Garden,-31.7,,False
+12,2024-06-28,Olive Garden,-45.11,,False
+13,2024-06-09,McDonald's,-11.86,,False
+14,2024-05-24,AT&T Wireless,-78.75,,False
+15,2024-06-15,Chipotle,-15.37,,False
+16,2024-05-10,Comcast Internet,-71.14,,False
+17,2024-01-14,Nike Store,-116.04,,False
+18,2024-01-09,McDonald's,-12.13,,False
+19,2024-01-09,Uber,-17.27,,False
+20,2024-03-16,Aldi,-42.01,,False
+21,2024-06-23,Aldi,-33.0,,False
+22,2024-02-24,AMC Theaters,-14.59,,False
+23,2024-02-20,Aldi,-50.38,,False
+24,2024-02-23,CVS Pharmacy,-55.45,,False
+25,2024-02-26,Metro Transit,-3.46,,False
+26,2024-02-09,Apartment Rent,-1784.3,,False
+27,2024-06-28,Freelance Payment,738.8,,False
+28,2024-04-21,Venmo Transfer,39.51,,False
+29,2024-05-01,Metro Transit,-3.95,,False
+30,2024-04-09,Target,-64.11,,False
+31,2024-01-18,Parking Meter,-4.92,,False
+32,2024-03-15,Chipotle,-189.5,,True
+33,2024-01-13,Spotify,-10.31,,False
+34,2024-01-16,H&M,-65.47,,False
+35,2024-01-25,BP Gas,-43.71,,False
+36,2024-01-24,Trader Joe's,-60.57,,False
+37,2024-01-14,Escape Room,-32.33,,False
+38,2024-02-13,McDonald's,-12.26,,False
+39,2024-01-27,Ticketmaster,-142.49,,False
+40,2024-02-11,Trader Joe's,-52.43,,False
+41,2024-05-20,Parking Meter,-4.85,,False
+42,2024-05-09,Costco,-171.44,,False
+43,2024-03-27,Domino's Pizza,-20.64,,False
+44,2024-01-28,Steam Games,-23.22,,False
+45,2024-03-28,Starbucks,-7.79,,False
+46,2024-02-28,McDonald's,-8.32,,False
+47,2024-04-08,Walmart Grocery,-97.71,,False
+48,2024-04-18,H&M,-49.67,,False
+49,2024-06-01,Uber,-210.0,,True
+50,2024-02-09,Whole Foods,-109.58,,False
+51,2024-05-30,Uber,-19.78,,False
+52,2024-04-04,Walgreens,-35.46,,False
+53,2024-06-29,Subway,-11.46,,False
+54,2024-03-21,Zelle Payment,377.85,,False
+55,2024-04-23,Dr. Smith Clinic,-99.39,,False
+56,2024-01-02,Domino's Pizza,-31.76,,False
+57,2024-05-26,Metro Transit,-3.26,,False
+58,2024-03-30,Escape Room,-28.98,,False
+59,2024-06-25,CVS Pharmacy,-20.03,,False
+60,2024-03-20,Parking Meter,-6.14,,False
+61,2024-05-21,Escape Room,-25.12,,False
+62,2024-03-17,Whole Foods,-110.29,,False
+63,2024-03-08,Unknown Electronics Co,-620.0,,True
+64,2024-02-28,Freelance Payment,957.79,,False
+65,2024-03-27,Amazon,-27.88,,False
+66,2024-01-30,Zelle Payment,472.66,,False
+67,2024-06-10,Uber,-13.63,,False
+68,2024-04-02,Uber,-14.57,,False
+69,2024-04-03,Walgreens,-13.8,,False
+70,2024-04-20,Dental Care Plus,-210.51,,False
+71,2024-06-15,BP Gas,-67.85,,False
+72,2024-01-25,McDonald's,-8.65,,False
+73,2024-01-18,AT&T Wireless,-90.54,,False
+74,2024-02-19,Employer Payroll,2547.33,,False
+75,2024-05-30,Panera Bread,-12.98,,False
+76,2024-02-29,Chipotle,-12.56,,False
+77,2024-03-31,Subway,-8.98,,False
+78,2024-02-24,Panera Bread,-13.41,,False
+79,2024-02-05,Walmart Grocery,-61.43,,False
+80,2024-03-09,Aldi,-69.24,,False
+81,2024-04-19,Kroger,-92.29,,False
+82,2024-04-10,Netflix,-15.99,,True
+83,2024-03-08,Aldi,-68.79,,False
+84,2024-05-18,Amazon,-89.99,,False
+85,2024-01-16,Target,-107.82,,False
+86,2024-02-15,Apartment Rent,-1718.76,,False
+87,2024-03-01,Netflix,-15.2,,False
+88,2024-05-19,Ticketmaster,-57.35,,False
+89,2024-06-03,Subway,-13.08,,False
+90,2024-05-10,Freelance Payment,1026.72,,False
+91,2024-04-07,Olive Garden,-29.9,,False
+92,2024-02-27,BP Gas,-41.63,,False
+93,2024-05-03,Whole Foods,-487.3,,True
+94,2024-06-13,Panera Bread,-18.96,,False
+95,2024-05-23,Dental Care Plus,-241.13,,False
+96,2024-03-21,Netflix,-16.7,,False
+97,2024-05-18,BP Gas,-66.93,,False
+98,2024-05-12,Shell Gas Station,-53.14,,False
+99,2024-01-01,Walmart Grocery,-62.65,,False
+100,2024-03-04,Apartment Rent,-1681.34,,False
+101,2024-05-20,Amazon,-77.61,,False
+102,2024-02-18,Amazon,-52.33,,False
+103,2024-01-19,Con Edison Electric,-135.74,,False
+104,2024-06-04,Lyft,-15.3,,False
+105,2024-05-07,Subway,-9.28,,False
+106,2024-04-29,Walmart Grocery,-97.67,,False
+107,2024-04-10,Netflix,-15.99,,False
+108,2024-02-20,Obscure Boutique XYZ,-340.0,,True
+109,2024-06-16,Ticketmaster,-107.28,,False
+110,2024-03-31,Walgreens,-40.68,,False
+111,2024-03-26,Apartment Rent,-1214.87,,False
+112,2024-01-30,Whole Foods,-96.02,,False
+113,2024-06-14,Zara,-92.28,,False
+114,2024-05-18,Amazon,-26.58,,False
+115,2024-06-12,Domino's Pizza,-34.82,,False
+116,2024-02-03,CVS Pharmacy,-15.16,,False
+117,2024-06-17,Netflix,-15.25,,False
+118,2024-01-15,Target,-56.7,,False
+119,2024-01-22,Dr. Smith Clinic,-950.0,,True
+120,2024-02-09,Zara,-97.47,,False
+121,2024-02-02,Metro Transit,-4.53,,False
+122,2024-03-21,Olive Garden,-49.65,,False
+123,2024-02-29,Domino's Pizza,-34.75,,False
+124,2024-04-18,Zara,-74.48,,False
+125,2024-05-21,Costco,-110.17,,False
+126,2024-05-15,Netflix,-16.43,,False
+127,2024-01-22,Metro Transit,-4.89,,False
+128,2024-04-26,Best Buy,-281.63,,False
+129,2024-04-04,AMC Theaters,-21.03,,False
+130,2024-03-01,Amazon,-145.97,,False
+131,2024-01-10,Employer Payroll,3265.08,,False
+132,2024-03-04,Target,-55.07,,False
+133,2024-02-26,Costco,-127.93,,False
+134,2024-05-03,Target,-66.58,,False
+135,2024-05-22,Best Buy,-155.75,,False
+136,2024-04-26,McDonald's,-10.66,,False
+137,2024-03-13,Escape Room,-27.33,,False
+138,2024-05-25,National Gas Co,-45.99,,False
+139,2024-03-02,Shell Gas Station,-47.18,,False
+140,2024-03-08,Zelle Payment,130.36,,False
+141,2024-01-18,Freelance Payment,992.39,,False
+142,2024-03-11,McDonald's,-8.18,,False
+143,2024-05-18,Amazon,-89.99,,True
+144,2024-04-27,Domino's Pizza,-31.72,,False
+145,2024-03-01,Shell Gas Station,-42.13,,False
+146,2024-05-05,Uber,-25.78,,False
+147,2024-02-03,Comcast Internet,-75.31,,False
+148,2024-05-17,Trader Joe's,-74.7,,False
+149,2024-04-27,Freelance Payment,833.65,,False
+150,2024-03-28,Escape Room,-28.16,,False
